@@ -1,0 +1,25 @@
+body{
+  background-color: indigo;
+  color: aqua;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+h1{
+  font-size: 80pt;
+}
+
+p{
+  font-size: 20pt;
+  color: greenyellow;
+}
+
+.boite{
+  border: solid 12px;
+  border-color: indianred;
+}
+
+.boite:hover{
+  background-color: maroon;
+  border-radius: 100pt;
+}
